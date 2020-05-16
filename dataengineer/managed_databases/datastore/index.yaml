@@ -1,0 +1,13 @@
+indexes:
+- kind: Teacher
+  ancestor: yes
+  properties:
+  - name: Name
+  - name: Course
+  - name: Age
+  
+- kind: Student
+  properties:
+  - name: Name
+  - name: Age
+  - name: Score
